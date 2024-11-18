@@ -1,5 +1,6 @@
-# Ramas-de-GitFlow
+# Ramas de GitFlow
 ## main
 ## develop
 ## releases
 ## feature
+## hotfixes 
