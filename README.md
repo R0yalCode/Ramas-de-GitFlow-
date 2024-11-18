@@ -1,2 +1,5 @@
-# Ramas-de-GitFlow-
-rama develop
+# Ramas-de-GitFlow
+## main
+## develop
+## releases
+## feature
